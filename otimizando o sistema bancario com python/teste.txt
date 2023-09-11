@@ -1,0 +1,4 @@
+<iframe style="position: absolute !important; width: 100% !important; height: 100% !important; z-index: 100"
+src="https://www.youtube.com/embed/Bg-q-0d6FF4?enablejsapi=0&amp;autoplay=0&amp;disablekb=1&amp;modestbranding=1&amp;controls=1&amp;showinfo=1&amp;rel=0&amp;hd=1&amp;wmode=opaque&amp;enablejsapi=0" allowfullscreen="1" frameborder="0"></iframe> 
+<div style="position: absolute;top: 0;width: 100%;height: 70px;background-color: transparent;z-index: 101;left: 0;"></div> 
+<div style="position: absolute;bottom: 0;width: 100%;height: 50px;background-color: transparent;z-index: 101;left: 0;">   </div>

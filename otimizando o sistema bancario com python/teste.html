@@ -1,0 +1,22 @@
+<script src="https://www.youtube.com/iframe_api"></script>
+<div id="player" style="position: absolute !important; width: 100% !important; height: 100% !important; z-index: 100"></div>
+
+<script>
+    var player;
+
+    function onYouTubeIframeAPIReady() {
+        player = new YT.Player('player', {
+            videoId: 'Bg-q-0d6FF4', 
+            playerVars: {
+                controls: 2,
+                list: 'WL', 
+                modestbranding: 1, 
+                enablejsapi: 1,
+                rel: 0,
+                showinfo: 0,
+                disablekb: 1
+            },
+        });
+    }
+
+</script>
